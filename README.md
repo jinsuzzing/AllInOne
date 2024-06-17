@@ -1,4 +1,4 @@
-![main](https://github.com/jinsuzzing/AllInOne/assets/80892395/1bb65612-7d1c-44c7-84e8-c8a11b3a4155)
+![main](https://github.com/jinsuzzing/AllInOne/assets/80892395/23864c03-138d-4a33-848b-c44d0541224f)
 
 
 ## All In One 서비스소개
@@ -49,7 +49,7 @@
 
 ## 주요기능
 ### 1. 메인페이지
-![1](https://github.com/jinsuzzing/AllInOne/assets/80892395/641557fb-8eea-4830-b9b2-b817797c58f8)
+![1](https://github.com/jinsuzzing/AllInOne/assets/80892395/ea682805-28fb-4146-93be-c84d159e8c5c)
 
 - 디자인등에 사용할 수 있는 닉네임을 입력하면 session에 담겨 페이지 이탈 전까지 유지됩니다.
 
@@ -57,7 +57,7 @@
 <hr>
 
 ### 2. 여행지 리스트
-![3](https://github.com/jinsuzzing/AllInOne/assets/80892395/fe3ac711-a025-4798-a31f-8412d3142d5f)
+![3](https://github.com/jinsuzzing/AllInOne/assets/80892395/a7f965a3-eb81-4819-998b-4a7343475ea3)
 
 - 큰 범위(도)의 지도를 클릭하면 해당하는 지역의 여행지 리스트가 출력됩니다.
 - 사이드 버튼을 이용하여 빠른 위치로 이동 가능합니다.
@@ -66,7 +66,7 @@
 <hr>
 
 ### 3. 랜덤 여행지 추천
-![2](https://github.com/jinsuzzing/AllInOne/assets/80892395/1e56f0e8-98f4-4081-8737-8c8e30af96f1)
+![2](https://github.com/jinsuzzing/AllInOne/assets/80892395/40b7653b-a82d-4015-a1e6-1d71cbc13f05)
 
 - 현재 웹에서 정리된 여행지(광주, 전남, 전북)를 랜덤으로 추천하는 기능입니다.
 - 추천된 여행지의 숙박, 교통, 맛집을 바로 연결되는 링크가 출력됩니다.
@@ -77,6 +77,6 @@
   
 
 ## 팀원소개
-![team](https://github.com/jinsuzzing/AllInOne/assets/80892395/41961802-a859-4667-90ce-3d7bdd973c08)
+![team](https://github.com/jinsuzzing/AllInOne/assets/80892395/7dc785c8-26d7-45e5-b3be-9edc76b99bf8)
 
 
